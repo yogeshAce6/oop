@@ -1,0 +1,5 @@
+===== LOG ANALYSIS SUMMARY =====
+ERROR : 1
+INFO : 1
+WARN : 1
+Execution Time: 20 ms
