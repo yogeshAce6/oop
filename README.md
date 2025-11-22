@@ -135,3 +135,10 @@ Sorted keyword summary printed to console
 Summary written to result_summary.txt
 
 Total execution time displayed
+
+Total execution time displayed
+
+SAMPLE OUTPUT:
+![imageAlt]( https://github.com/yogeshAce6/oop/blob/04fe85cc9f448a55eb60aa0c87feb2bd1b5d5926/project/project1/Java%20learning%20%E2%80%93%20SimpleLibrarySystem.java%2018-11-2025%2015_49_25.png)
+
+
